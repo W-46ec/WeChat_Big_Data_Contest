@@ -1,5 +1,9 @@
+
+# Datasets
+wechat_algo_data1/*.csv
+
 # Byte-compiled / optimized / DLL files
-__pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 
@@ -75,7 +79,7 @@ docs/_build/
 target/
 
 # Jupyter Notebook
-.ipynb_checkpoints
+**/.ipynb_checkpoints
 
 # IPython
 profile_default/
